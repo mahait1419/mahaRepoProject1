@@ -1,0 +1,64 @@
+.background_pic{
+    background-image: url("company.jpg");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg_small{
+    font-size:30px;
+    position: absolute;
+    top:470px;
+    left:500px;
+    right:500px;
+    background: rgba(238, 238, 238, 0.7);
+    
+}
+.linkPages th{
+    padding-left: 40px;
+    padding-right: 0px;
+    text-align: left;
+    color:cornflowerblue;
+    
+}
+
+.th, td {
+    padding: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.h2 {
+    color:blue;
+}
+
+.background_picblog{
+    background-image: url("company.jpg");
+    height: 118%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.header th{
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size:35px;   
+}
+
+#top_bar {
+        
+        background-image: url("sky.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+button{
+    position: center;
+    color:white;
+    background-color: dimgray;
+}
+
+  
